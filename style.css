@@ -218,6 +218,19 @@ textarea{
 .btn_send a{
     padding: 10px 20px; 
 }
+/* map section css */
+.map_text{
+    padding: 10px 10px;
+}
+.map_text h4{
+    font-weight: blod;
+    font-size: 25px;
+}
+.map{
+    text-align: center;
+    align-items: center;
+    padding: 10px 5px;
+}
 /* footer section */
 footer{
     padding: 50px 5px 10px 20px;
